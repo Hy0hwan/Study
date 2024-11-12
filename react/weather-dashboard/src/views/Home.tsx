@@ -5,6 +5,7 @@ function Home() {
     <div className="page">
       <div className="page__container">
         <header>헤더</header>
+        <div>바디</div>
       </div>
     </div>
   );

@@ -5,8 +5,42 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components';
+import TimeWeather from './Houry/TimeWeather';
 
 const Houry = () => {
+  const timeWeatherData = [
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+    {
+      time: '1시',
+      icons: '/src/assets/icons/1063d.svg',
+      temp: '12',
+    },
+  ];
+
   return (
     <Card className="bg-white flex-1 h-full max-w-[calc(50%-48px)]">
       <CardHeader>
@@ -16,18 +50,9 @@ const Houry = () => {
         </CardDescription>
       </CardHeader>
       <CardContent className="w-full flex items-start gap-4">
-        <Card className=" bg-neutral-100 w-24 min-w-24 h-fit flex flex-col items-center py-[6px] gap-1 ">
-          <span className="text-sm">오후 1시</span>
-          <img src="/src/assets/icons/1063d.svg" alt="날씨" />
-          <div className="w-full flex items-start justify-center">
-            <span className="scroll-m-20 text-xl font-medium tracking-tight">
-              17
-            </span>
-            <span className="text-[13px] ml-[1px] mt-[1px] font-medium">
-              &#8451;
-            </span>
-          </div>
-        </Card>
+        {timeWeatherData.map((value, index) => (
+          <TimeWeather data={value} key={index} />
+        ))}
       </CardContent>
     </Card>
   );

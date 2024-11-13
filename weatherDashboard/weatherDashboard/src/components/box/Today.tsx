@@ -6,7 +6,7 @@ import { Card } from '../ui/card';
 
 const Today = () => {
   return (
-    <Card className="bg-white">
+    <Card className="bg-white text-[#333333] p-5 w-2/6	">
       <Intro title="Today" description="오늘 현재 날씨를 조회하고 있습니다." />
       <IconAndNumber icons={sun} numbertext="19°C" />
       <div>

@@ -5,13 +5,15 @@ type IconAndNumberType = {
 
 const IconAndNumber = ({ icons, numbertext }: IconAndNumberType) => {
   return (
-    <div>
+    <div className="flex flex-row ">
       <img
         src={icons}
         alt="weather icon"
         style={{ width: '150px', height: '150px' }}
       />
-      <div>{numbertext}</div>
+      <div className="text-5xl text-center justify-self-center	">
+        {numbertext}
+      </div>
     </div>
   );
 };

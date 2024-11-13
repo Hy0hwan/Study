@@ -6,8 +6,8 @@ type IntroProps = {
 const Intro = ({ title, description }: IntroProps) => {
   return (
     <div>
-      <h1>{title}</h1>
-      <p>{description}</p>
+      <div className="font-bold	 text-2xl">{title}</div>
+      <div>{description}</div>
     </div>
   );
 };

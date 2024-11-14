@@ -11,7 +11,6 @@ type data = {
 };
 
 const TimeWeather = ({ data }: data) => {
-  console.log(data);
   return (
     <Card className=" bg-neutral-100 w-24 min-w-24 h-fit flex flex-col items-center py-[6px] gap-1 ">
       <span className="text-sm">{data.time}</span>

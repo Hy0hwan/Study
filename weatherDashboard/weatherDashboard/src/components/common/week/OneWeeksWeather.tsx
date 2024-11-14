@@ -11,8 +11,6 @@ type data = {
 };
 
 const OneWeeksWeather = ({ data }: data) => {
-  console.log(' props로 받아온 데이터 :  ', data);
-
   return (
     <div className="w-full flex items-center gap-7 bg-neutral-50 py-0 px-3 rounded-md">
       <div className="w-fit h-10 flex items-center gap-2">

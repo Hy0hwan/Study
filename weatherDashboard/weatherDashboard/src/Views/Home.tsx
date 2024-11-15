@@ -1,6 +1,6 @@
+import { currentWeatherApi, fetchApi } from '@/api';
 import { Header, HighLight, Houry, Map, Today, Week } from '@/components';
 import { Weather } from '@/types';
-import axios from 'axios';
 import { useEffect, useState } from 'react';
 const defaultWeatherData: Weather = {
   current: {
@@ -49,43 +49,22 @@ const defaultWeatherData: Weather = {
 
 function Home() {
   const [weatherData, setWeatherData] = useState(defaultWeatherData);
+  const [currentDta, setCurrentData] = useState();
 
-  console.log(weatherData);
+  console.log(currentDta);
 
   useEffect(() => {
-    fetchApi();
+    fetchApi().then((data) => setWeatherData(data));
+    currentWeatherApi().then((data) => setCurrentData(data));
   }, []);
-  const fetchApi = async () => {
-    const API_KEY = '1c7db76ae67a4a77ace135210243110';
-    const BASE_URL = 'http://api.weatherapi.com/v1';
-    //https://api.weatherapi.com/v1/current.json?q=seoul&key=1c7db76ae67a4a77ace135210243110
-
-    try {
-      /** Promise 인스턴스 방법을 사용했을 땐, resolve에 해당 */
-      const res = await axios.get(
-        `${BASE_URL}/forecast.json?q=seoul&days=7&key=${API_KEY}`
-      );
-      console.log(res);
-
-      if (res.status === 200) {
-        setWeatherData(res.data);
-      }
-    } catch (error) {
-      /** Promise 인스턴스 방법을 사용했을 땐, reject에 해당 */
-      console.error(error);
-    } finally {
-      /** 비동기 로직이 실행되던 / 되지 않던 무조건 실행되어야만 하는 로직이 작성된다. */
-      console.log('fetchApi 호출은 되었습니다.');
-    }
-  };
 
   return (
     <div className="page">
       <div className="page__container">
         <Header />
-        <div className="w-full h-full flex flex-col bg-black  p-6">
+        <div className="w-full h-full flex flex-col   p-6">
           <div className="w-full flex items-center gap-6 mb-5">
-            <Today />
+            <Today data={currentDta} />
             <Houry />
             <Map />
           </div>

@@ -170,3 +170,8 @@ export interface Tide {
   tide_time: string;
   tide_type: string;
 }
+
+export interface Today {
+  country: string;
+  name: string;
+}

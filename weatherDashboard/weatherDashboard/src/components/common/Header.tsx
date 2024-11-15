@@ -1,4 +1,5 @@
 import { SearchBar } from '@/components';
+import { useState } from 'react';
 
 const Header = () => {
   return (

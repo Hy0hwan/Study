@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "title": "블라블라 블라블라",
+      "imageUrl": "src/assets/image/wallpaper.png",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 1,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 2,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 3,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 4,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 5,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    },
+    {
+      "index": 6,
+      "title": "블라블라 블라블라",
+      "imageUrl": "",
+      "postedData": "2024-12-25",
+      "like": 144
+    }
+  ]
+}

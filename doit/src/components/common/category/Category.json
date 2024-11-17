@@ -1,52 +1,88 @@
 {
   "nav": [
     {
-      "name": "보도/편집 전용",
-      "link": "/보도/편집 전용"
+      "index": 0,
+      "path": "/search/edit",
+      "label": "보도/편집 전용",
+      "searchValue": "edit",
+      "isActive": false
     },
     {
-      "name": "팔로잉",
-      "link": "/팔로잉"
+      "index": 1,
+      "path": "/search/following",
+      "label": "팔로잉",
+      "searchValue": "following",
+      "isActive": false
     },
     {
-      "name": "Unsplash Photo +",
-      "link": "/Unsplash Photo +"
+      "index": 2,
+      "path": "/search/photoPlus",
+      "label": "Unsplash Photo+",
+      "searchValue": "photo",
+      "isActive": false
     },
     {
-      "name": "단색",
-      "link": "/단색"
+      "index": 3,
+      "path": "/search/oneColor",
+      "label": "단색",
+      "searchValue": "one color",
+      "isActive": false
     },
     {
-      "name": "3D 랜더링",
-      "link": "/3D 랜더링"
+      "index": 4,
+      "path": "/search/3dRender",
+      "label": "3D 렌더링",
+      "searchValue": "3d rendering",
+      "isActive": false
     },
     {
-      "name": "자연",
-      "link": "/자연"
+      "index": 5,
+      "path": "/search/nature",
+      "label": "자연",
+      "searchValue": "nature",
+      "isActive": false
     },
     {
-      "name": "텍스쳐 및 패턴",
-      "link": "/텍스쳐 및 패턴"
+      "index": 6,
+      "path": "/search/texture",
+      "label": "텍스쳐 및 패턴",
+      "searchValue": "texture",
+      "isActive": false
     },
     {
-      "name": "인테리어",
-      "link": "/인테리어"
+      "index": 7,
+      "path": "/search/interior",
+      "label": "인테리어",
+      "searchValue": "interior",
+      "isActive": false
     },
     {
-      "name": "필름",
-      "link": "/필름"
+      "index": 8,
+      "path": "/search/film",
+      "label": "필름",
+      "searchValue": "film",
+      "isActive": false
     },
     {
-      "name": "실험적인",
-      "link": "/실험적인"
+      "index": 9,
+      "path": "/search/experimental",
+      "label": "실험적인",
+      "searchValue": "experimental",
+      "isActive": false
     },
     {
-      "name": "여행",
-      "link": "/여행"
+      "index": 10,
+      "path": "/search/travel",
+      "label": "여행",
+      "searchValue": "travel",
+      "isActive": false
     },
     {
-      "name": "스포츠",
-      "link": "/스포츠"
+      "index": 11,
+      "path": "/search/sports",
+      "label": "스포츠",
+      "searchValue": "sports",
+      "isActive": false
     }
   ]
 }

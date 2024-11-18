@@ -20,8 +20,6 @@ const Home = () => {
     fetchImages();
   }, []);
 
-  console.log('images : ', images);
-
   const fetchImages = useCallback(async () => {
     try {
       const res = await fetchApi(searchValue, page);
@@ -38,7 +36,6 @@ const Home = () => {
           description: 'API 호출을 위한 필수 파라미터 값을 체크해보세요!',
         });
       }
-      console.log(res);
     } catch (error) {
       console.error(error);
     }

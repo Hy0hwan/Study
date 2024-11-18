@@ -6,7 +6,6 @@ type ThumbnailData = {
 };
 
 const SearchList = ({ data }: ThumbnailData) => {
-  console.log('data : ', data);
   return (
     <div className="p-5">
       <div className="grid grid-cols-5 gap-5">

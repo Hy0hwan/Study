@@ -1,30 +1,22 @@
-import { useState } from 'react';
 import Thumbnail from '../Thumbnail';
-import searchList from './data.json';
+import { ImageDataType } from '@/types';
 
 type ThumbnailData = {
-  index: number;
-  title: string;
-  imageUrl: string;
-  postedData: string;
-  like: number;
+  data: ImageDataType[];
 };
 
-const SearchList = () => {
-  const [thumbnailData] = useState<ThumbnailData[]>(searchList.data);
-
-  console.log('thumbnailData : ', thumbnailData);
-
+const SearchList = ({ data }: ThumbnailData) => {
+  console.log('data : ', data);
   return (
     <div className="p-5">
-      <div className="grid grid-cols-5 gap-8">
-        {thumbnailData.map((data) => (
+      <div className="grid grid-cols-5 gap-5">
+        {data.map((data) => (
           <Thumbnail
-            key={data.index}
-            title={data.title}
-            imageUrl={data.imageUrl}
-            postedDate={data.postedData}
-            like={data.like}
+            key={data.id}
+            title={data.alt_description}
+            imageUrl={data.urls.small}
+            postedDate={data.created_at.split('T')[0]}
+            like={data.likes}
           />
         ))}
       </div>

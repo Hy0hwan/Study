@@ -20,7 +20,9 @@ const Thumbnail = ({ title, imageUrl, postedDate, like }: ThumbnailProps) => {
           />
         </CardContent>
       </Card>
-      <h3 className="text-lg font-bold mt-4 mb-10">{title}</h3>
+      <h3 className="text-lg font-bold mt-4 mb-10 line-clamp-2 h-12">
+        {title}
+      </h3>
       <div className="flex justify-between items-center gap-3">
         <p className="text-sm text-gray-600">게시일 : {postedDate}</p>
         <p className="text-sm text-gray-800">{like}</p>

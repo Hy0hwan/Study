@@ -7,6 +7,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/search/*" element={<Home />} />
         <Route path="/bookmark" element={<Book />} />
       </Routes>
     </BrowserRouter>

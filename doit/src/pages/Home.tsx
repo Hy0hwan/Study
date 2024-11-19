@@ -16,6 +16,8 @@ const Home = () => {
   const [searchValue] = useAtom(searchValueAtom);
   const [page] = useAtom(pageAtom);
 
+  console.log(page);
+
   useEffect(() => {
     fetchImages();
   }, []);

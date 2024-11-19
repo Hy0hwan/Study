@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { nav } from './Category.json';
 import { useAtom } from 'jotai';
 import { searchValueAtom } from '@/stores/atom';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 type NavData = {
   label: string;
@@ -10,7 +10,6 @@ type NavData = {
 };
 
 const Category = () => {
-  const location = useLocation();
   const navigate = useNavigate();
 
   const [category] = useState<NavData[]>(nav);

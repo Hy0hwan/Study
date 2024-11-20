@@ -1,16 +1,22 @@
 'use client';
 
 // import { useState, useEffect } from "react";
-// import Image from "next/image";
+import Image from 'next/image';
 
 // import { supabase } from "@/lib/supabase";
 import { CardBoard } from '@/features';
+import { supabase } from '@/lib/supabase';
+import { usePathname } from 'next/navigation';
+
 import { Button, Progress, LabelDatePicker } from '@/components/ui';
 import { ChevronLeft } from 'lucide-react';
 import styles from './page.module.scss';
 import SideBar from '@/components/ui/sidebar/SideBar';
 import { useState } from 'react';
 import { nanoid } from 'nanoid';
+import { useAtom } from 'jotai';
+import { todoList } from '@/components/api/atoms';
+import { getBoardData, updateBoards } from '@/components/api/BoardApi';
 
 interface BoardContent {
   id: string | number;
@@ -28,30 +34,39 @@ function BoardPage() {
   const [endDate, setEndDate] = useState<Date>(new Date());
   const [cheacked, setChecked] = useState(false);
 
-  const createBoard = () => {
-    let newBoards: BoardContent[] = [];
-    const boardContent = {
-      id: nanoid(),
-      isChecked: false,
-      title: '',
-      startDate: '',
-      endDate: '',
-      content: '',
-    };
+  const [todo] = useAtom(todoList);
+  const pathname = usePathname();
+  console.log('pathname : ', pathname);
+  console.log('BoardPage Todo : ', todo);
 
-    if (boards.length) {
-      console.log(boards);
-      newBoards = [...boards, boardContent];
-      newBoards.push(boardContent);
-    } else {
-      newBoards.push(boardContent);
-    }
+  getBoardData(pathname);
+
+  let newBoards: BoardContent[] = [];
+  const boardContent = {
+    id: nanoid(),
+    isChecked: false,
+    title: '',
+    startDate: '',
+    endDate: '',
+    content: '',
+  };
+  if (boards.length) {
+    console.log(boards);
+    newBoards = [...boards, boardContent];
+    newBoards.push(boardContent);
+  } else {
+    newBoards.push(boardContent);
+  }
+
+  const createBoard = () => {
+    console.log('클릭시 빈 보드 생성');
+    updateBoards(newBoards, pathname);
   };
 
   return (
     <div className="page">
       <div className="page__aside">
-        <SideBar />
+        <SideBar data={todo} />
       </div>
 
       <main className="page__main">
@@ -93,19 +108,26 @@ function BoardPage() {
         </div>
         <div className={styles.body}>
           {/* Add New Board 버튼 클릭으로 인한 Board 데이터가 없을 경우 */}
-          {/* <div className={styles.body__noData}>
-                        <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">There is no board yet.</h3>
-                        <small className="text-sm font-medium leading-none text-[#6D6D6D] mt-3 mb-7">
-                            Click the button and start flashing!
-                        </small>
-                        <button onClick={createBoard}>
-                            <Image src="/assets/images/button.svg" width={74} height={74} alt="rounded-button" />
-                        </button>
-                    </div> */}
+          <div className={styles.body__noData}>
+            <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
+              There is no board yet.
+            </h3>
+            <small className="text-sm font-medium leading-none text-[#6D6D6D] mt-3 mb-7">
+              Click the button and start flashing!
+            </small>
+            <button onClick={createBoard}>
+              <Image
+                src="/assets/images/button.svg"
+                width={74}
+                height={74}
+                alt="rounded-button"
+              />
+            </button>
+          </div>
           {/* Add New Board 버튼 클릭으로 인한 Board 데이터가 있을 경우 */}
           <div className={styles.body__isData}>
-            <CardBoard />
-            <CardBoard />
+            {/* <CardBoard />
+            <CardBoard /> */}
           </div>
         </div>
       </main>

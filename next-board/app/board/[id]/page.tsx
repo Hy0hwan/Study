@@ -10,12 +10,43 @@ import { ChevronLeft } from 'lucide-react';
 import styles from './page.module.scss';
 import SideBar from '@/components/ui/sidebar/SideBar';
 import { useState } from 'react';
+import { nanoid } from 'nanoid';
+
+interface BoardContent {
+  id: string | number;
+  isChecked: boolean;
+  title: string;
+  startDate: Date | string;
+  endDate: Date | string;
+  content: string;
+}
 
 function BoardPage() {
+  const [boards, setBoards] = useState<BoardContent[]>([]);
   const [title, setTitle] = useState<string>('');
   const [startDate, setStartDate] = useState<Date>(new Date());
   const [endDate, setEndDate] = useState<Date>(new Date());
-  const [boards, setBoards] = useState([]);
+  const [cheacked, setChecked] = useState(false);
+
+  const createBoard = () => {
+    let newBoards: BoardContent[] = [];
+    const boardContent = {
+      id: nanoid(),
+      isChecked: false,
+      title: '',
+      startDate: '',
+      endDate: '',
+      content: '',
+    };
+
+    if (boards.length) {
+      console.log(boards);
+      newBoards = [...boards, boardContent];
+      newBoards.push(boardContent);
+    } else {
+      newBoards.push(boardContent);
+    }
+  };
 
   return (
     <div className="page">
@@ -52,7 +83,10 @@ function BoardPage() {
               <LabelDatePicker label={'From'} />
               <LabelDatePicker label={'To'} />
             </div>
-            <Button className="text-white bg-[#E79057] hover:bg-[#E26F24] hover:ring-1 hover:ring-[#E26F24] hover:ring-offset-1 active:bg-[#D5753D] hover:shadow-lg">
+            <Button
+              onClick={createBoard}
+              className="text-white bg-[#E79057] hover:bg-[#E26F24] hover:ring-1 hover:ring-[#E26F24] hover:ring-offset-1 active:bg-[#D5753D] hover:shadow-lg"
+            >
               Add New Board
             </Button>
           </div>

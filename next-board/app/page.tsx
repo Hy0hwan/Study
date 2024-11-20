@@ -3,11 +3,30 @@
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui';
 import SideBar from '@/components/ui/sidebar/SideBar';
-import { createTodo } from '@/components/api/BoardApi';
+import { createTodo, getTodos } from '@/components/api/BoardApi';
+import { useAtom } from 'jotai';
+import { todoList } from '@/components/api/atoms';
+import { useEffect } from 'react';
 // import { useEffect } from 'react';
 
 function InitPage() {
   const router = useRouter();
+
+  const [todo, setTodo] = useAtom(todoList);
+
+  // 데이터를 가져와 상태에 저장하는 함수
+  const fetchTodos = async () => {
+    try {
+      const data = await getTodos();
+      setTodo(data);
+    } catch (error) {
+      console.error('Failed to fetch todos:', error);
+    }
+  };
+
+  useEffect(() => {
+    fetchTodos();
+  }, []);
 
   const btnOnclick = () => {
     createTodo(); //todo생성 api
@@ -17,7 +36,7 @@ function InitPage() {
   return (
     <div className="page">
       <div className="page__aside">
-        <SideBar />
+        <SideBar data={todo} />
       </div>
 
       <main className="page__main">

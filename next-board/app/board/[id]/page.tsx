@@ -12,11 +12,12 @@ import { Button, Progress, LabelDatePicker } from '@/components/ui';
 import { ChevronLeft } from 'lucide-react';
 import styles from './page.module.scss';
 import SideBar from '@/components/ui/sidebar/SideBar';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { nanoid } from 'nanoid';
 import { useAtom } from 'jotai';
 import { todoList } from '@/components/api/atoms';
 import { getBoardData, updateBoards } from '@/components/api/BoardApi';
+import BoardList from '@/components/ui/boards/BoardList';
 
 interface BoardContent {
   id: string | number;
@@ -29,26 +30,37 @@ interface BoardContent {
 
 function BoardPage() {
   const [boards, setBoards] = useState<BoardContent[]>([]);
-  const [title, setTitle] = useState<string>('');
-  const [startDate, setStartDate] = useState<Date>(new Date());
-  const [endDate, setEndDate] = useState<Date>(new Date());
-  const [cheacked, setChecked] = useState(false);
+  // const [title, setTitle] = useState<string>('');
+  // const [startDate, setStartDate] = useState<Date>(new Date());
+  // const [endDate, setEndDate] = useState<Date>(new Date());
+  // const [cheacked, setChecked] = useState(false);
 
   const [todo] = useAtom(todoList);
   const pathname = usePathname();
-  console.log('pathname : ', pathname);
-  console.log('BoardPage Todo : ', todo);
 
-  getBoardData(pathname);
+  console.log('boards :', boards);
+
+  const fetchBoardData = async (pathname: string) => {
+    try {
+      const data = await getBoardData(pathname);
+      setBoards(data);
+    } catch (error) {
+      console.error('Error fetching board data:', error);
+    }
+  };
+
+  useEffect(() => {
+    fetchBoardData(pathname);
+  }, [pathname]);
 
   let newBoards: BoardContent[] = [];
   const boardContent = {
     id: nanoid(),
     isChecked: false,
-    title: '',
+    title: '테스트중 타이틀',
     startDate: '',
     endDate: '',
-    content: '',
+    content: '테스크 컨텐트',
   };
   if (boards.length) {
     console.log(boards);
@@ -106,30 +118,32 @@ function BoardPage() {
             </Button>
           </div>
         </div>
-        <div className={styles.body}>
-          {/* Add New Board 버튼 클릭으로 인한 Board 데이터가 없을 경우 */}
-          <div className={styles.body__noData}>
-            <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
-              There is no board yet.
-            </h3>
-            <small className="text-sm font-medium leading-none text-[#6D6D6D] mt-3 mb-7">
-              Click the button and start flashing!
-            </small>
-            <button onClick={createBoard}>
-              <Image
-                src="/assets/images/button.svg"
-                width={74}
-                height={74}
-                alt="rounded-button"
-              />
-            </button>
-          </div>
-          {/* Add New Board 버튼 클릭으로 인한 Board 데이터가 있을 경우 */}
-          <div className={styles.body__isData}>
-            {/* <CardBoard />
-            <CardBoard /> */}
-          </div>
-        </div>
+
+        <BoardList boards={boards} newBoards={newBoards} pathname={pathname} />
+        {/* <div className={styles.body}>
+          {boards.length === 0 ? (
+            <div className={styles.body__noData}>
+              <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
+                There is no board yet.
+              </h3>
+              <small className="text-sm font-medium leading-none text-[#6D6D6D] mt-3 mb-7">
+                Click the button and start flashing!
+              </small>
+              <button onClick={createBoard}>
+                <Image
+                  src="/assets/images/button.svg"
+                  width={74}
+                  height={74}
+                  alt="rounded-button"
+                />
+              </button>
+            </div>
+          ) : (
+            <div className={styles.body__isData}>
+              <CardBoard />
+            </div>
+          )}
+        </div> */}
       </main>
     </div>
   );

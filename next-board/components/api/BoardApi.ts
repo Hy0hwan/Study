@@ -41,7 +41,7 @@ export const createTodo = async () => {
   }
 };
 
-/** 보드 데이터 get 요청*/
+/** 보드 데이터 get 요청 */
 export const getBoardData = async (pathname) => {
   try {
     const { data } = await supabase

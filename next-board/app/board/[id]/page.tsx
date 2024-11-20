@@ -9,8 +9,14 @@ import { Button, Progress, LabelDatePicker } from '@/components/ui';
 import { ChevronLeft } from 'lucide-react';
 import styles from './page.module.scss';
 import SideBar from '@/components/ui/sidebar/SideBar';
+import { useState } from 'react';
 
 function BoardPage() {
+  const [title, setTitle] = useState<string>('');
+  const [startDate, setStartDate] = useState<Date>(new Date());
+  const [endDate, setEndDate] = useState<Date>(new Date());
+  const [boards, setBoards] = useState([]);
+
   return (
     <div className="page">
       <div className="page__aside">

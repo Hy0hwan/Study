@@ -3,9 +3,16 @@
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui';
 import SideBar from '@/components/ui/sidebar/SideBar';
+import { createTodo } from '@/components/api/BoardApi';
+// import { useEffect } from 'react';
 
 function InitPage() {
   const router = useRouter();
+
+  const btnOnclick = () => {
+    createTodo(); //todo생성 api
+    router.push('/board/1');
+  };
 
   return (
     <div className="page">
@@ -30,7 +37,7 @@ function InitPage() {
           </div>
           <Button
             className="text-[#E79057] bg-transparent border border-[#E79057] hover:bg-[#FFF9F5] w-[180px]"
-            onClick={() => router.push('/board/1')}
+            onClick={btnOnclick}
           >
             Add New Page
           </Button>

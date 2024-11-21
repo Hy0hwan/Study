@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 import { nanoid } from 'nanoid';
 import { useAtom } from 'jotai';
 import { todoList } from '@/components/api/atoms';
-import { getBoardData, updateBoards } from '@/components/api/BoardApi';
+import { getBoardData, updateBoards } from '@/components/api/boardApi';
 import BoardList from '@/components/ui/boards/BoardList';
 
 interface BoardContent {
@@ -65,7 +65,7 @@ function BoardPage() {
 
   const createBoard = () => {
     console.log('클릭시 빈 보드 생성');
-    updateBoards(newBoards, pathname);
+    // updateBoards(newBoards, pathname);
   };
 
   return (

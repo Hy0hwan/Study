@@ -45,7 +45,7 @@ export const createTodo = async () => {
 
 /** 보드 데이터 get 요청 */
 export const getBoardData = async (pathname) => {
-  const [boards, setBoards] = useAtom(boardContent);
+  // const [boards, setBoards] = useAtom(boardContent);
 
   try {
     const { data } = await supabase
@@ -54,7 +54,7 @@ export const getBoardData = async (pathname) => {
       .eq('id', Number(pathname.split('/')[2]));
 
     console.log(` 보드 데이터 get 요청  ${pathname}:`, data);
-    setBoards(data);
+    // setBoards(data);
   } catch (error) {
     console.error(' 보드 데이터 get 요청 실패 :', error);
   }

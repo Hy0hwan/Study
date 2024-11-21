@@ -7,6 +7,7 @@ import { createTodo, getTodos } from '@/components/api/BoardApi';
 import { useAtom } from 'jotai';
 import { todoList } from '@/components/api/atoms';
 import { useEffect } from 'react';
+import { getTodo } from '@/components/api/todoApi';
 // import { useEffect } from 'react';
 
 function InitPage() {

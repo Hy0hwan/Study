@@ -1,7 +1,7 @@
 // import styles from './page.module.scss';
 import styles from '@/app/board/[id]/page.module.scss';
 import Image from 'next/image';
-import { updateBoards } from '@/components/api/BoardApi';
+import { updateBoards } from '@/components/api/boardApi';
 import { CardBoard } from '@/features';
 
 const BoardList = ({ boards, newBoards, pathname }) => {

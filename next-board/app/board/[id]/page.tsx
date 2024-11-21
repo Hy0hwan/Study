@@ -1,13 +1,6 @@
 'use client';
 
-// import { useState, useEffect } from "react";
-import Image from 'next/image';
-
-// import { supabase } from "@/lib/supabase";
-import { CardBoard } from '@/features';
-import { supabase } from '@/lib/supabase';
 import { usePathname } from 'next/navigation';
-
 import { Button, Progress, LabelDatePicker } from '@/components/ui';
 import { ChevronLeft } from 'lucide-react';
 import styles from './page.module.scss';
@@ -45,7 +38,7 @@ function BoardPage() {
       const data = await getBoardData(pathname);
       setBoards(data);
     } catch (error) {
-      console.error('Error fetching board data:', error);
+      console.error(error);
     }
   };
 
@@ -120,30 +113,6 @@ function BoardPage() {
         </div>
 
         <BoardList boards={boards} newBoards={newBoards} pathname={pathname} />
-        {/* <div className={styles.body}>
-          {boards.length === 0 ? (
-            <div className={styles.body__noData}>
-              <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
-                There is no board yet.
-              </h3>
-              <small className="text-sm font-medium leading-none text-[#6D6D6D] mt-3 mb-7">
-                Click the button and start flashing!
-              </small>
-              <button onClick={createBoard}>
-                <Image
-                  src="/assets/images/button.svg"
-                  width={74}
-                  height={74}
-                  alt="rounded-button"
-                />
-              </button>
-            </div>
-          ) : (
-            <div className={styles.body__isData}>
-              <CardBoard />
-            </div>
-          )}
-        </div> */}
       </main>
     </div>
   );

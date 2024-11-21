@@ -1,4 +1,6 @@
 import { supabase } from '@/lib/supabase';
+import { useAtom } from 'jotai';
+import { boardContent } from './atoms';
 // import { useToast } from '@/hooks/use-toast';
 
 export const getTodos = async () => {
@@ -43,16 +45,18 @@ export const createTodo = async () => {
 
 /** 보드 데이터 get 요청 */
 export const getBoardData = async (pathname) => {
+  const [boards, setBoards] = useAtom(boardContent);
+
   try {
     const { data } = await supabase
       .from('todos')
       .select('boards')
       .eq('id', Number(pathname.split('/')[2]));
 
-    console.log(`Array column data for ID ${pathname}:`, data);
-    return data;
+    console.log(` 보드 데이터 get 요청  ${pathname}:`, data);
+    setBoards(data);
   } catch (error) {
-    console.error('Error fetching array column by ID:', error);
+    console.error(' 보드 데이터 get 요청 실패 :', error);
   }
 };
 

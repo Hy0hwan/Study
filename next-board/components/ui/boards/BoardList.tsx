@@ -5,7 +5,7 @@ import { updateBoards } from '@/components/api/BoardApi';
 import { CardBoard } from '@/features';
 
 const BoardList = ({ boards, newBoards, pathname }) => {
-  console.log('보드리스트 ', boards.boards);
+  console.log('보드리스트 ', boards);
   const createBoard = () => {
     console.log('클릭시 빈 보드 생성');
     updateBoards(newBoards, pathname);

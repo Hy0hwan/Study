@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'MyFirstCalcUITests' in project 'MyFirstCalc' (no dependencies)
+Target 'MyFirstCalcUITests' in project 'MyFirstCalc'
+➜ Explicit dependency on target 'MyFirstCalc' in project 'MyFirstCalc'
+Target 'MyFirstCalcUITests' in project 'MyFirstCalc'
+➜ Explicit dependency on target 'MyFirstCalc' in project 'MyFirstCalc'
+Target 'MyFirstCalcTests' in project 'MyFirstCalc' (no dependencies)
+Target 'MyFirstCalcTests' in project 'MyFirstCalc'
+➜ Explicit dependency on target 'MyFirstCalc' in project 'MyFirstCalc'
+Target 'MyFirstCalcTests' in project 'MyFirstCalc'
+➜ Explicit dependency on target 'MyFirstCalc' in project 'MyFirstCalc'
+Target 'MyFirstCalc' in project 'MyFirstCalc' (no dependencies)
+Target 'MyFirstCalc' in project 'MyFirstCalc' (no dependencies)

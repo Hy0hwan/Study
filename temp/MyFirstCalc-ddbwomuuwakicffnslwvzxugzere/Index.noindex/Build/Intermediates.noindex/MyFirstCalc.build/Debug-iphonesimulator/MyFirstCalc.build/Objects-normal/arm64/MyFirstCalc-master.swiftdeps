@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "04da846bea05a3fff571384456e5dc8e8c8002c08cf08d3b9ed98b23cb636efc"
+build_start_time: [1744816945, 762834000]
+build_end_time: [1744816946, 108621000]
+inputs:
+  "/Users/gimhyohwan/Swift/project/MyFirstCalc/MyFirstCalc/ContentView.swift": [1744816937, 43084278]
+  "/Users/gimhyohwan/Swift/project/MyFirstCalc/MyFirstCalc/MyFirstCalcApp.swift": [1744816937, 41445483]
+  ? "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1744816939, 648014628]

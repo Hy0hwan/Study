@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/Objects-normal/arm64/MyFirstCalc-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/Objects-normal/arm64/MyFirstCalc-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/Objects-normal/arm64/MyFirstCalc-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/Objects-normal/arm64/MyFirstCalc-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/Objects-normal/arm64/MyFirstCalc-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/project/MyFirstCalc/MyFirstCalc/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/project/MyFirstCalc/MyFirstCalc/MyFirstCalcApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ddbwomuuwakicffnslwvzxugzere/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphonesimulator/MyFirstCalc.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

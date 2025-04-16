@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ezbfzjhjrjuqtufnylzljkvwepvk/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphoneos/MyFirstCalcUITests.build/Objects-normal/arm64/MyFirstCalcUITests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ezbfzjhjrjuqtufnylzljkvwepvk/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphoneos/MyFirstCalcUITests.build/Objects-normal/arm64/MyFirstCalcUITests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ezbfzjhjrjuqtufnylzljkvwepvk/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphoneos/MyFirstCalcUITests.build/Objects-normal/arm64/MyFirstCalcUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ezbfzjhjrjuqtufnylzljkvwepvk/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphoneos/MyFirstCalcUITests.build/Objects-normal/arm64/MyFirstCalcUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/MyFirstCalc-ezbfzjhjrjuqtufnylzljkvwepvk/Index.noindex/Build/Intermediates.noindex/MyFirstCalc.build/Debug-iphoneos/MyFirstCalcUITests.build/Objects-normal/arm64/MyFirstCalcUITests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/day2/MyFirstCalc/MyFirstCalcUITests/MyFirstCalcUITests.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/day2/MyFirstCalc/MyFirstCalcUITests/MyFirstCalcUITestsLaunchTests.swift" : {
+
+  }
+}

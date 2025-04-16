@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gimhyohwan/Swift/project/MyFirstCalc/MyFirstCalc/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

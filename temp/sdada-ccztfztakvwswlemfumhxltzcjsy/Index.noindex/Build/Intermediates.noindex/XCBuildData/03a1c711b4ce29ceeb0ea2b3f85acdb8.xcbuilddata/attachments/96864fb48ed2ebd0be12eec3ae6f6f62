@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/Objects-normal/arm64/sdada-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/Objects-normal/arm64/sdada-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/Objects-normal/arm64/sdada-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/Objects-normal/arm64/sdada-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/Objects-normal/arm64/sdada-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/AppDelegate.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/SceneDelegate.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/ViewController.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphoneos/sdada.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

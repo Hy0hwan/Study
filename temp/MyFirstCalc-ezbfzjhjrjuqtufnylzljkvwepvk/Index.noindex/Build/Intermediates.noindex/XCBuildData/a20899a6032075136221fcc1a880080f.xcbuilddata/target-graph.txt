@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'MyFirstCalc' in project 'MyFirstCalc' (no dependencies)
+Target 'MyFirstCalc' in project 'MyFirstCalc' (no dependencies)

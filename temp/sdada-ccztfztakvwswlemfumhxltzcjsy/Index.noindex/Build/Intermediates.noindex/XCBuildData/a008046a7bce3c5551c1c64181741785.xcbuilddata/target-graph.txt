@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'sdadaUITests' in project 'sdada' (no dependencies)
+Target 'sdadaUITests' in project 'sdada'
+➜ Explicit dependency on target 'sdada' in project 'sdada'
+Target 'sdadaUITests' in project 'sdada'
+➜ Explicit dependency on target 'sdada' in project 'sdada'
+Target 'sdadaTests' in project 'sdada' (no dependencies)
+Target 'sdadaTests' in project 'sdada'
+➜ Explicit dependency on target 'sdada' in project 'sdada'
+Target 'sdadaTests' in project 'sdada'
+➜ Explicit dependency on target 'sdada' in project 'sdada'
+Target 'sdada' in project 'sdada' (no dependencies)
+Target 'sdada' in project 'sdada' (no dependencies)

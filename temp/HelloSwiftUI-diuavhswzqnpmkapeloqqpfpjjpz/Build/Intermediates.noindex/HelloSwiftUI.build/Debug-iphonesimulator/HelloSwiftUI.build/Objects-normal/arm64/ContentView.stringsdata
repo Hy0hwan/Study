@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gimhyohwan/Swift/day1/HelloSwiftUI/HelloSwiftUI/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Print",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 30
+        }
+      }
+    ]
+  },
+  "version": 1
+}

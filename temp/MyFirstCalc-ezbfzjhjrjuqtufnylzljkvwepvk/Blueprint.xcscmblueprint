@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "674ACE8238679F7B742518ED5001DCA2600253AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45F03593-3AD9-49E7-B764-864DD6BA1C5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : "Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyFirstCalc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "day2\/MyFirstCalc\/MyFirstCalc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hy0hwan\/Study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "674ACE8238679F7B742518ED5001DCA2600253AA"
+    }
+  ]
+}

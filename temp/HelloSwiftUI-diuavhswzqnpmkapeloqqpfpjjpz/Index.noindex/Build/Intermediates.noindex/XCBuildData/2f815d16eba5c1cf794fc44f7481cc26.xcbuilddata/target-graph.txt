@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'HelloSwiftUIUITests' in project 'HelloSwiftUI' (no dependencies)
+Target 'HelloSwiftUIUITests' in project 'HelloSwiftUI'
+➜ Explicit dependency on target 'HelloSwiftUI' in project 'HelloSwiftUI'
+Target 'HelloSwiftUIUITests' in project 'HelloSwiftUI'
+➜ Explicit dependency on target 'HelloSwiftUI' in project 'HelloSwiftUI'
+Target 'HelloSwiftUITests' in project 'HelloSwiftUI' (no dependencies)
+Target 'HelloSwiftUITests' in project 'HelloSwiftUI'
+➜ Explicit dependency on target 'HelloSwiftUI' in project 'HelloSwiftUI'
+Target 'HelloSwiftUITests' in project 'HelloSwiftUI'
+➜ Explicit dependency on target 'HelloSwiftUI' in project 'HelloSwiftUI'
+Target 'HelloSwiftUI' in project 'HelloSwiftUI' (no dependencies)
+Target 'HelloSwiftUI' in project 'HelloSwiftUI' (no dependencies)

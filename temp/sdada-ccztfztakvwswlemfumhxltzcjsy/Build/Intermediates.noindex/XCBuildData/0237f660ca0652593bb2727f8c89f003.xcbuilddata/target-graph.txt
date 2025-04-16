@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'sdada' in project 'sdada' (no dependencies)

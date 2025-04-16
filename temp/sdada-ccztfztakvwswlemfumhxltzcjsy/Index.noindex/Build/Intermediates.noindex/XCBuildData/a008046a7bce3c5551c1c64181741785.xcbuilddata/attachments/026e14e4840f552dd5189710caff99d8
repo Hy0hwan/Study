@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-maccatalyst/sdadaTests.build/Objects-normal/arm64/sdadaTests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-maccatalyst/sdadaTests.build/Objects-normal/arm64/sdadaTests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-maccatalyst/sdadaTests.build/Objects-normal/arm64/sdadaTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-maccatalyst/sdadaTests.build/Objects-normal/arm64/sdadaTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-maccatalyst/sdadaTests.build/Objects-normal/arm64/sdadaTests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/day2/sdada/sdadaTests/sdadaTests.swift" : {
+
+  }
+}

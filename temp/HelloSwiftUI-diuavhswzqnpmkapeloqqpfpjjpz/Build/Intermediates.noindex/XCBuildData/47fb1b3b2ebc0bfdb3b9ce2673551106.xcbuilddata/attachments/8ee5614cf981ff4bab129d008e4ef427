@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUI-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUI-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/day1/HelloSwiftUI/HelloSwiftUI/ContentView.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/day1/HelloSwiftUI/HelloSwiftUI/HelloSwiftUIApp.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.dia",
+    "index-unit-output-path" : "/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/HelloSwiftUIApp~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUI.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

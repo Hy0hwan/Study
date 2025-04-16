@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "674ACE8238679F7B742518ED5001DCA2600253AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B6670646-33B1-49E5-8F56-69E9F1CE6EA9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : "Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloSwiftUI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "day1\/HelloSwiftUI\/HelloSwiftUI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hy0hwan\/Study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "674ACE8238679F7B742518ED5001DCA2600253AA"
+    }
+  ]
+}

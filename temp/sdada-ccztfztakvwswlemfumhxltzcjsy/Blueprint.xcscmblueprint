@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "674ACE8238679F7B742518ED5001DCA2600253AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "256A44FF-E058-40D2-8046-DA29F619E4F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "674ACE8238679F7B742518ED5001DCA2600253AA" : "Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sdada",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "day2\/sdada\/sdada.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hy0hwan\/Study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "674ACE8238679F7B742518ED5001DCA2600253AA"
+    }
+  ]
+}

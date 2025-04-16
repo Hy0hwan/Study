@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Index.noindex/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUIUITests.build/Objects-normal/arm64/HelloSwiftUIUITests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Index.noindex/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUIUITests.build/Objects-normal/arm64/HelloSwiftUIUITests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Index.noindex/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUIUITests.build/Objects-normal/arm64/HelloSwiftUIUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Index.noindex/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUIUITests.build/Objects-normal/arm64/HelloSwiftUIUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/HelloSwiftUI-diuavhswzqnpmkapeloqqpfpjjpz/Index.noindex/Build/Intermediates.noindex/HelloSwiftUI.build/Debug-iphonesimulator/HelloSwiftUIUITests.build/Objects-normal/arm64/HelloSwiftUIUITests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/day1/HelloSwiftUI/HelloSwiftUIUITests/HelloSwiftUIUITests.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/day1/HelloSwiftUI/HelloSwiftUIUITests/HelloSwiftUIUITestsLaunchTests.swift" : {
+
+  }
+}

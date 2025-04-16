@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "43154dad970adf0f94d80cf162a602f4ef4b7d6b5af46044331925674b082f9e"
+build_start_time: [1744771391, 669260000]
+build_end_time: [1744771391, 910770000]
+inputs:
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/AppDelegate.swift": [1744771361, 926301074]
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/SceneDelegate.swift": [1744771361, 928591934]
+  "/Users/gimhyohwan/Swift/day2/sdada/sdada/ViewController.swift": [1744771361, 929959308]
+  ? "/Users/gimhyohwan/Swift/temp/sdada-ccztfztakvwswlemfumhxltzcjsy/Index.noindex/Build/Intermediates.noindex/sdada.build/Debug-iphonesimulator/sdada.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1744771388, 355484471]

@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F99BFA3E2DAF82AA00F9C72B /* MyFirstCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F99BFA4E2DAF82AB00F9C72B /* MyFirstCalcTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstCalcTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F99BFA582DAF82AB00F9C72B /* MyFirstCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F99BFA3E2DAF82AA00F9C72B /* MyFirstCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MyFirstCalc.app; path = "/Users/gimhyohwan/Swift/day2/MyFirstCalc/build/Debug-iphoneos/MyFirstCalc.app"; sourceTree = "<absolute>"; };
+		F99BFA4E2DAF82AB00F9C72B /* MyFirstCalcTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MyFirstCalcTests.xctest; path = "/Users/gimhyohwan/Swift/day2/MyFirstCalc/build/Debug-iphoneos/MyFirstCalc.app/PlugIns/MyFirstCalcTests.xctest"; sourceTree = "<absolute>"; };
+		F99BFA582DAF82AB00F9C72B /* MyFirstCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MyFirstCalcUITests.xctest; path = "/Users/gimhyohwan/Swift/day2/MyFirstCalc/build/Debug-iphoneos/MyFirstCalcUITests-Runner.app/PlugIns/MyFirstCalcUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,18 +78,7 @@
 				F99BFA402DAF82AA00F9C72B /* MyFirstCalc */,
 				F99BFA512DAF82AB00F9C72B /* MyFirstCalcTests */,
 				F99BFA5B2DAF82AB00F9C72B /* MyFirstCalcUITests */,
-				F99BFA3F2DAF82AA00F9C72B /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		F99BFA3F2DAF82AA00F9C72B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				F99BFA3E2DAF82AA00F9C72B /* MyFirstCalc.app */,
-				F99BFA4E2DAF82AB00F9C72B /* MyFirstCalcTests.xctest */,
-				F99BFA582DAF82AB00F9C72B /* MyFirstCalcUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,7 +185,7 @@
 			mainGroup = F99BFA352DAF82AA00F9C72B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F99BFA3F2DAF82AA00F9C72B /* Products */;
+			productRefGroup = F99BFA352DAF82AA00F9C72B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (

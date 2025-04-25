@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Index.noindex/Build/Intermediates.noindex/UIPractice0.build/Debug-iphonesimulator/UIPractice0Tests.build/Objects-normal/arm64/UIPractice0Tests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Index.noindex/Build/Intermediates.noindex/UIPractice0.build/Debug-iphonesimulator/UIPractice0Tests.build/Objects-normal/arm64/UIPractice0Tests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Index.noindex/Build/Intermediates.noindex/UIPractice0.build/Debug-iphonesimulator/UIPractice0Tests.build/Objects-normal/arm64/UIPractice0Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Index.noindex/Build/Intermediates.noindex/UIPractice0.build/Debug-iphonesimulator/UIPractice0Tests.build/Objects-normal/arm64/UIPractice0Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Index.noindex/Build/Intermediates.noindex/UIPractice0.build/Debug-iphonesimulator/UIPractice0Tests.build/Objects-normal/arm64/UIPractice0Tests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0Tests/UIPractice0Tests.swift" : {
+
+  }
+}

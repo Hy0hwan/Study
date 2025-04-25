@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphoneos/SunnyDayTests.build/Objects-normal/arm64/SunnyDayTests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphoneos/SunnyDayTests.build/Objects-normal/arm64/SunnyDayTests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphoneos/SunnyDayTests.build/Objects-normal/arm64/SunnyDayTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphoneos/SunnyDayTests.build/Objects-normal/arm64/SunnyDayTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphoneos/SunnyDayTests.build/Objects-normal/arm64/SunnyDayTests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/SunnyDay/SunnyDayTests/SunnyDayTests.swift" : {
+
+  }
+}

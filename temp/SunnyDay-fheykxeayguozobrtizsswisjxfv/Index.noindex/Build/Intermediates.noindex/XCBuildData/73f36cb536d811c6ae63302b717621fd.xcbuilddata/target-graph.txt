@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'SunnyDayUITests' in project 'SunnyDay' (no dependencies)
+Target 'SunnyDayUITests' in project 'SunnyDay'
+➜ Explicit dependency on target 'SunnyDay' in project 'SunnyDay'
+Target 'SunnyDayUITests' in project 'SunnyDay'
+➜ Explicit dependency on target 'SunnyDay' in project 'SunnyDay'
+Target 'SunnyDayTests' in project 'SunnyDay' (no dependencies)
+Target 'SunnyDayTests' in project 'SunnyDay'
+➜ Explicit dependency on target 'SunnyDay' in project 'SunnyDay'
+Target 'SunnyDayTests' in project 'SunnyDay'
+➜ Explicit dependency on target 'SunnyDay' in project 'SunnyDay'
+Target 'SunnyDay' in project 'SunnyDay' (no dependencies)
+Target 'SunnyDay' in project 'SunnyDay' (no dependencies)

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'CreditCalcUITests' in project 'CreditCalc' (no dependencies)
+Target 'CreditCalcUITests' in project 'CreditCalc'
+➜ Explicit dependency on target 'CreditCalc' in project 'CreditCalc'
+Target 'CreditCalcUITests' in project 'CreditCalc'
+➜ Explicit dependency on target 'CreditCalc' in project 'CreditCalc'
+Target 'CreditCalcTests' in project 'CreditCalc' (no dependencies)
+Target 'CreditCalcTests' in project 'CreditCalc'
+➜ Explicit dependency on target 'CreditCalc' in project 'CreditCalc'
+Target 'CreditCalcTests' in project 'CreditCalc'
+➜ Explicit dependency on target 'CreditCalc' in project 'CreditCalc'
+Target 'CreditCalc' in project 'CreditCalc' (no dependencies)
+Target 'CreditCalc' in project 'CreditCalc' (no dependencies)

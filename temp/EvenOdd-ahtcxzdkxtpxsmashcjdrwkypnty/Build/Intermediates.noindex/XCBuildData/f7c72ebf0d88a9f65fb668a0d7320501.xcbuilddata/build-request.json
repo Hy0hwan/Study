@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "08701326d0ccbdc3d5efda247f99f64af62efd573f796b885afed7498c416420"
+    }
+  ],
+  "containerPath" : "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/Products",
+      "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+      "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "38E21B55-1D5E-435E-AE2B-655A4EC49063",
+          "TARGET_DEVICE_MODEL" : "iPhone14,6",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

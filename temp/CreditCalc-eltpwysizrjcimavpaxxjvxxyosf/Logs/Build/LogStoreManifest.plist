@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>7412D73C-27B4-42A0-89B3-AD2134A8DD23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7412D73C-27B4-42A0-89B3-AD2134A8DD23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CreditCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CreditCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) CreditCalc</string>
+			<key>timeStartedRecording</key>
+			<real>766894896.67098999</real>
+			<key>timeStoppedRecording</key>
+			<real>766894899.59827006</real>
+			<key>title</key>
+			<string>Build (Automatic) CreditCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>7412D73C-27B4-42A0-89B3-AD2134A8DD23</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

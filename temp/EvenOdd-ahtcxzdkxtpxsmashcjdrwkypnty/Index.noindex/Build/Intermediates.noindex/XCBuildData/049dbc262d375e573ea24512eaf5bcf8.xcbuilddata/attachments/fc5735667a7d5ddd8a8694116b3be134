@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphoneos/EvenOddTests.build/Objects-normal/arm64/EvenOddTests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphoneos/EvenOddTests.build/Objects-normal/arm64/EvenOddTests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphoneos/EvenOddTests.build/Objects-normal/arm64/EvenOddTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphoneos/EvenOddTests.build/Objects-normal/arm64/EvenOddTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphoneos/EvenOddTests.build/Objects-normal/arm64/EvenOddTests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOddTests/EvenOddTests.swift" : {
+
+  }
+}

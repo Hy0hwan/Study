@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCloud</string>
+			<key>relativePath</key>
+			<string>./cloud.imageset</string>
+			<key>swiftSymbol</key>
+			<string>cloud</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameRain</string>
+			<key>relativePath</key>
+			<string>./rain.imageset</string>
+			<key>swiftSymbol</key>
+			<string>rain</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSnow</string>
+			<key>relativePath</key>
+			<string>./snow.imageset</string>
+			<key>swiftSymbol</key>
+			<string>snow</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSun</string>
+			<key>relativePath</key>
+			<string>./sun.imageset</string>
+			<key>swiftSymbol</key>
+			<string>sun</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

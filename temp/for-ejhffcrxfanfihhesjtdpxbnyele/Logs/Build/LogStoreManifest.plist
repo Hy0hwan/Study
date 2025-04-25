@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>D2C9E59B-B6B2-47F7-8FD4-C96CAA01240B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2C9E59B-B6B2-47F7-8FD4-C96CAA01240B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>for</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>for (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build for (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>766894110.42870998</real>
+			<key>timeStoppedRecording</key>
+			<real>766894110.48022497</real>
+			<key>title</key>
+			<string>Build for (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>D2C9E59B-B6B2-47F7-8FD4-C96CAA01240B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/GetStartedView.swift" : {
+    "index-unit-output-path" : "/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.o"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/UIPractice1App.swift" : {
+    "index-unit-output-path" : "/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Release-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.o"
+  }
+}

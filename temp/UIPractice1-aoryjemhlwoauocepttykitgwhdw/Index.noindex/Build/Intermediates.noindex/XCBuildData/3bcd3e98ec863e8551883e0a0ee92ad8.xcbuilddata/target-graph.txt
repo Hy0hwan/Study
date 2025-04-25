@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'UIPractice1' in project 'UIPractice1' (no dependencies)
+Target 'UIPractice1' in project 'UIPractice1' (no dependencies)

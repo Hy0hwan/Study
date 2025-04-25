@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'property_Sources' in project 'property_Sources' (no dependencies)

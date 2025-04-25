@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'scope' in project 'scope' (no dependencies)
+Target 'scope' in project 'scope' (no dependencies)

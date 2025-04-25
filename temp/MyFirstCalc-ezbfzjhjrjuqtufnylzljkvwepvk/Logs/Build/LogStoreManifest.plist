@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>7FAB3E1B-BCF6-49CD-91FD-EE901E2F48F5</key>
+		<key>1D46FB5A-78EC-4D9F-BACC-10204E123F5B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7FAB3E1B-BCF6-49CD-91FD-EE901E2F48F5.xcactivitylog</string>
+			<string>1D46FB5A-78EC-4D9F-BACC-10204E123F5B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,559 @@
 			<key>signature</key>
 			<string>Build (Automatic) MyFirstCalc</string>
 			<key>timeStartedRecording</key>
-			<real>766481260.50865197</real>
+			<real>766902973.24206197</real>
 			<key>timeStoppedRecording</key>
-			<real>766481261.93194497</real>
+			<real>766902974.441764</real>
 			<key>title</key>
 			<string>Build (Automatic) MyFirstCalc</string>
 			<key>uniqueIdentifier</key>
-			<string>7FAB3E1B-BCF6-49CD-91FD-EE901E2F48F5</string>
+			<string>1D46FB5A-78EC-4D9F-BACC-10204E123F5B</string>
+		</dict>
+		<key>2E26EA7F-1FC3-40D2-9EFF-601AD2D05BFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E26EA7F-1FC3-40D2-9EFF-601AD2D05BFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149798.69043505</real>
+			<key>timeStoppedRecording</key>
+			<real>767149799.140095</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>2E26EA7F-1FC3-40D2-9EFF-601AD2D05BFE</string>
+		</dict>
+		<key>30AF3873-D5C0-405D-8814-50F0A9B4F010</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30AF3873-D5C0-405D-8814-50F0A9B4F010.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149735.09993696</real>
+			<key>timeStoppedRecording</key>
+			<real>767149735.49462795</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>30AF3873-D5C0-405D-8814-50F0A9B4F010</string>
+		</dict>
+		<key>3C628791-90AD-4394-BCB5-D87BAB1CE70E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C628791-90AD-4394-BCB5-D87BAB1CE70E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149691.892344</real>
+			<key>timeStoppedRecording</key>
+			<real>767149692.728392</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>3C628791-90AD-4394-BCB5-D87BAB1CE70E</string>
+		</dict>
+		<key>78D08082-4BDD-4227-9A7B-D775ACCC01E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78D08082-4BDD-4227-9A7B-D775ACCC01E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149678.51997805</real>
+			<key>timeStoppedRecording</key>
+			<real>767149679.28855801</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>78D08082-4BDD-4227-9A7B-D775ACCC01E6</string>
+		</dict>
+		<key>7BCA4E4C-D1DC-4EB3-B453-6F37219CB3AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7BCA4E4C-D1DC-4EB3-B453-6F37219CB3AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149702.11093295</real>
+			<key>timeStoppedRecording</key>
+			<real>767149702.98485804</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>7BCA4E4C-D1DC-4EB3-B453-6F37219CB3AD</string>
+		</dict>
+		<key>885094C0-9EC4-48CA-80D7-FCCA5A6370C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>885094C0-9EC4-48CA-80D7-FCCA5A6370C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>7</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149725.25090301</real>
+			<key>timeStoppedRecording</key>
+			<real>767149726.04251599</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>885094C0-9EC4-48CA-80D7-FCCA5A6370C5</string>
+		</dict>
+		<key>8FD6A64E-073E-439E-B355-5F5C960CBBAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FD6A64E-073E-439E-B355-5F5C960CBBAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149676.40485001</real>
+			<key>timeStoppedRecording</key>
+			<real>767149677.16580403</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>8FD6A64E-073E-439E-B355-5F5C960CBBAA</string>
+		</dict>
+		<key>A3E4E341-B587-4D2A-A906-0D6F5C2BA35D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3E4E341-B587-4D2A-A906-0D6F5C2BA35D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149697.64629102</real>
+			<key>timeStoppedRecording</key>
+			<real>767149698.53214705</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>A3E4E341-B587-4D2A-A906-0D6F5C2BA35D</string>
+		</dict>
+		<key>BDCCC9D0-8623-4C66-B305-6D9F43302FF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDCCC9D0-8623-4C66-B305-6D9F43302FF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149510.51083004</real>
+			<key>timeStoppedRecording</key>
+			<real>767149511.07778001</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>BDCCC9D0-8623-4C66-B305-6D9F43302FF7</string>
+		</dict>
+		<key>D04B2A28-C862-40C4-B5F1-4D4240B2EA88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D04B2A28-C862-40C4-B5F1-4D4240B2EA88.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149662.96738398</real>
+			<key>timeStoppedRecording</key>
+			<real>767149664.504403</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>D04B2A28-C862-40C4-B5F1-4D4240B2EA88</string>
+		</dict>
+		<key>DC2565C6-224C-4835-8FE3-1D3AF2313B6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC2565C6-224C-4835-8FE3-1D3AF2313B6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149671.35113204</real>
+			<key>timeStoppedRecording</key>
+			<real>767149672.12168801</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>DC2565C6-224C-4835-8FE3-1D3AF2313B6C</string>
+		</dict>
+		<key>E069CFD8-7113-4091-B47D-12AA89C131C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E069CFD8-7113-4091-B47D-12AA89C131C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>6</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767149782.05297697</real>
+			<key>timeStoppedRecording</key>
+			<real>767149782.46117306</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>E069CFD8-7113-4091-B47D-12AA89C131C3</string>
+		</dict>
+		<key>ECB60129-2753-49A6-9454-2700B666AA59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECB60129-2753-49A6-9454-2700B666AA59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFirstCalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFirstCalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>timeStartedRecording</key>
+			<real>767150264.16575098</real>
+			<key>timeStoppedRecording</key>
+			<real>767150265.77495694</real>
+			<key>title</key>
+			<string>Build (Automatic) MyFirstCalc</string>
+			<key>uniqueIdentifier</key>
+			<string>ECB60129-2753-49A6-9454-2700B666AA59</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "확인",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 51
+        }
+      }
+    ]
+  },
+  "version": 1
+}

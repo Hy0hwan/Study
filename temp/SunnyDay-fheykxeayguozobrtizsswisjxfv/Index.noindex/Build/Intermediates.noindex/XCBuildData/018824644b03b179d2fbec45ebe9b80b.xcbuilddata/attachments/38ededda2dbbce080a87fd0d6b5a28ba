@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/Objects-normal/arm64/SunnyDay-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/Objects-normal/arm64/SunnyDay-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/Objects-normal/arm64/SunnyDay-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/Objects-normal/arm64/SunnyDay-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/Objects-normal/arm64/SunnyDay-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/SunnyDayApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-iphonesimulator/SunnyDay.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

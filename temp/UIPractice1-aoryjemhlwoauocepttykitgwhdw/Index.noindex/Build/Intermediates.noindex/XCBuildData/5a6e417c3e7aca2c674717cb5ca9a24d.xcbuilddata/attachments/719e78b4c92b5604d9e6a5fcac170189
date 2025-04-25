@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Index.noindex/Build/Intermediates.noindex/UIPractice1.build/Debug-iphoneos/UIPractice1Tests.build/Objects-normal/arm64/UIPractice1Tests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Index.noindex/Build/Intermediates.noindex/UIPractice1.build/Debug-iphoneos/UIPractice1Tests.build/Objects-normal/arm64/UIPractice1Tests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Index.noindex/Build/Intermediates.noindex/UIPractice1.build/Debug-iphoneos/UIPractice1Tests.build/Objects-normal/arm64/UIPractice1Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Index.noindex/Build/Intermediates.noindex/UIPractice1.build/Debug-iphoneos/UIPractice1Tests.build/Objects-normal/arm64/UIPractice1Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Index.noindex/Build/Intermediates.noindex/UIPractice1.build/Debug-iphoneos/UIPractice1Tests.build/Objects-normal/arm64/UIPractice1Tests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1Tests/UIPractice1Tests.swift" : {
+
+  }
+}

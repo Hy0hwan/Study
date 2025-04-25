@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "08e3ec1478655a882544fd4f4b9e652469877f44f3110e59ea1bd1ced849492d"
+build_start_time: [1745208983, 437842000]
+build_end_time: [1745208984, 36637000]
+inputs:
+  "/Users/gimhyohwan/Swift/scope/scope/ContentView.swift": [1745208973, 411150752]
+  "/Users/gimhyohwan/Swift/scope/scope/scopeApp.swift": [1745208973, 409244367]
+  ? "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphonesimulator/scope.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1745208979, 488729665]

@@ -1,0 +1,70 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9ac1eeb334938924b649ba4caffc72f50977005c39c4a5b5092a560d5ff411ad"
+    }
+  ],
+  "containerPath" : "/Users/gimhyohwan/Swift/SunnyDay/SunnyDay.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Build/Products",
+      "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+      "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Build/ProfileData",
+          "CLANG_STATIC_ANALYZER_MODE" : "$(CLANG_STATIC_ANALYZER_MODE_ON_ANALYZE_ACTION)",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "RUN_CLANG_STATIC_ANALYZER" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "FBF87CBF-C145-4166-8B4A-9D93D2486F0E",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,5 @@
+Target dependency graph (4 targets)
+Target 'for_Sources' in project 'for_Sources' (no dependencies)
+Target 'while_PageSources' in project 'for_Sources' (no dependencies)
+Target 'Untitled_Page_PageSources' in project 'for_Sources' (no dependencies)
+Target 'Untitled_Page_2_PageSources' in project 'for_Sources' (no dependencies)

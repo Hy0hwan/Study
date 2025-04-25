@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/GetStartedView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Name.App",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}

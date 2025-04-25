@@ -1,0 +1,245 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Untitled_Page_2_PageSources-PLAYGROUND-TARGET:/Users/gimhyohwan/Swift/for.playground/Pages/Untitled Page 2.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Products",
+          "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+          "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Intermediates.noindex",
+              "SYMROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "DCBFD3D8-7845-4950-A5EC-7430877B2FBC",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Untitled_Page_PageSources-PLAYGROUND-TARGET:/Users/gimhyohwan/Swift/for.playground/Pages/Untitled Page.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Products",
+          "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+          "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Intermediates.noindex",
+              "SYMROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "DCBFD3D8-7845-4950-A5EC-7430877B2FBC",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:while_PageSources-PLAYGROUND-TARGET:/Users/gimhyohwan/Swift/for.playground/Pages/while.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Products",
+          "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+          "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Intermediates.noindex",
+              "SYMROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "DCBFD3D8-7845-4950-A5EC-7430877B2FBC",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:for_Sources-PLAYGROUND-TARGET:/Users/gimhyohwan/Swift/for.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator18.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Products",
+          "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+          "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Intermediates.noindex",
+              "SYMROOT" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/Playgrounds/for/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "DCBFD3D8-7845-4950-A5EC-7430877B2FBC",
+              "TARGET_DEVICE_MODEL" : "iPad14,5",
+              "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/gimhyohwan/Swift/for.playground",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Products",
+      "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+      "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/gimhyohwan/Swift/temp/for-ejhffcrxfanfihhesjtdpxbnyele/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-B",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-B",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "DCBFD3D8-7845-4950-A5EC-7430877B2FBC",
+          "TARGET_DEVICE_MODEL" : "iPad14,5",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

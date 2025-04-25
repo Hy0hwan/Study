@@ -1,0 +1,32 @@
+{
+  "source": "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/NumCompare.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "확인",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/Objects-normal/arm64/LoginForm-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/Objects-normal/arm64/LoginForm-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/Objects-normal/arm64/LoginForm-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/Objects-normal/arm64/LoginForm-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/Objects-normal/arm64/LoginForm-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/LoginForm/LoginForm/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/LoginForm/LoginForm/LoginFormApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

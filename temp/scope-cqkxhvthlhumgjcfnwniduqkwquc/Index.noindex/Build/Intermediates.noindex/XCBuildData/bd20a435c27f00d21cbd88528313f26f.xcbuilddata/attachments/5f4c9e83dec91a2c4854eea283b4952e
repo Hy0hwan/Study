@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/Objects-normal/arm64/scope-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/Objects-normal/arm64/scope-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/Objects-normal/arm64/scope-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/Objects-normal/arm64/scope-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/Objects-normal/arm64/scope-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/scope/scope/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/scope/scope/scopeApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/scope-cqkxhvthlhumgjcfnwniduqkwquc/Index.noindex/Build/Intermediates.noindex/scope.build/Debug-iphoneos/scope.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'LoginFormUITests' in project 'LoginForm' (no dependencies)
+Target 'LoginFormUITests' in project 'LoginForm'
+➜ Explicit dependency on target 'LoginForm' in project 'LoginForm'
+Target 'LoginFormUITests' in project 'LoginForm'
+➜ Explicit dependency on target 'LoginForm' in project 'LoginForm'
+Target 'LoginFormTests' in project 'LoginForm' (no dependencies)
+Target 'LoginFormTests' in project 'LoginForm'
+➜ Explicit dependency on target 'LoginForm' in project 'LoginForm'
+Target 'LoginFormTests' in project 'LoginForm'
+➜ Explicit dependency on target 'LoginForm' in project 'LoginForm'
+Target 'LoginForm' in project 'LoginForm' (no dependencies)
+Target 'LoginForm' in project 'LoginForm' (no dependencies)

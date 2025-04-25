@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphoneos/LoginTests.build/Objects-normal/arm64/LoginTests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphoneos/LoginTests.build/Objects-normal/arm64/LoginTests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphoneos/LoginTests.build/Objects-normal/arm64/LoginTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphoneos/LoginTests.build/Objects-normal/arm64/LoginTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphoneos/LoginTests.build/Objects-normal/arm64/LoginTests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/Login/LoginTests/LoginTests.swift" : {
+
+  }
+}

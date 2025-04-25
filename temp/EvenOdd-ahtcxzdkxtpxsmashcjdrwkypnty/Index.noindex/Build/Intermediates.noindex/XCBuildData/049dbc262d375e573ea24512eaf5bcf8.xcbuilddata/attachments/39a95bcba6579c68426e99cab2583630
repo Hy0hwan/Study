@@ -1,0 +1,24 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/Objects-normal/arm64/EvenOdd-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/Objects-normal/arm64/EvenOdd-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/Objects-normal/arm64/EvenOdd-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/Objects-normal/arm64/EvenOdd-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/Objects-normal/arm64/EvenOdd-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/EvenOddApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/NumCompare.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/Password.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

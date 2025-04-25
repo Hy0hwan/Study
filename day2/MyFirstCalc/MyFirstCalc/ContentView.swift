@@ -1,21 +1,16 @@
-//
-//  ContentView.swift
-//  MyFirstCalc
-//
-//  Created by 김효환 on 4/16/25.
-//
-
-//경고창 : Alert View
-
-// UIKit : Action Sheet
-// SwiftUI : Confirmation Dialong
-
 import SwiftUI
+
+enum Operator: String {
+    case plus = "+"
+    case minus = "-"
+    case multiply = "*"
+    case divide = "/"
+}
 
 struct ContentView: View {
     @State var lhs: String = "1"
     @State var rhs: String = "34"
-    @State var op: String = "??"
+    @State var op: Operator? = nil
     @State var result: String = "-"
     
     @State var showOperatorList = false
@@ -26,32 +21,32 @@ struct ContentView: View {
                 Button {
                     showOperatorList = true
                 } label: {
-                    Text(op)
+                    Text(op?.rawValue ?? "")
                         .padding()
                 }
                 .confirmationDialog("", isPresented: $showOperatorList){
                     Button{
-                        op = "+"
+                        op = .plus
                     } label: {
-                        Text("+")
+                        Text(Operator.plus.rawValue)
                     }
                     
                     Button{
-                        op = "-"
+                        op = .minus
                     } label: {
-                        Text("-")
+                        Text(Operator.minus.rawValue)
                     }
                     
                     Button{
-                        op = "*"
+                        op = .multiply
                     } label: {
-                        Text("*")
+                        Text(Operator.multiply.rawValue)
                     }
                     
                     Button{
-                        op = "/"
+                        op = .divide
                     } label: {
-                        Text("/")
+                        Text(Operator.divide.rawValue)
                     }
                 }
 
@@ -72,19 +67,8 @@ struct ContentView: View {
                 .frame(maxWidth: .infinity, alignment: .trailing)
 
             Button {
-                
-                let a = Int(lhs)!
-                let b = Int(rhs)!
-                
-                if op == "+"{
-                    result = "\(a + b)"
-                }else if op == "-"{
-                    result = "\(a - b)"
-                }else if op == "*"{
-                    result = "\(a * b)"
-                }else if op == "/"{
-                    result = "\(a / b)"
-                }
+                                
+                calculate()
 
             } label: {
                 Text("계산")
@@ -96,6 +80,31 @@ struct ContentView: View {
             Spacer()
         }
         .padding()
+    }
+    
+    // Methods
+    func calculate() {
+        let a = Int(lhs)!
+        let b = Int(rhs)!
+        
+//        guard let op else {
+//            showAlert2 = true
+//            return
+//        }
+        
+        switch op {
+        case .plus:
+            result = "\(a + b)"
+        case .minus:
+            result = "\(a - b)"
+        case .multiply:
+            result = "\(a * b)"
+        case .divide:
+            result = "\(a / b)"
+        default:
+            result = "연산자 선택"
+        }
+
     }
 }
 

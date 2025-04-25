@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "45650709850d67e4e749176f3a02e818ef286bca14e2fc994d32e58f53b9745d"
+build_start_time: [1745475150, 757491000]
+build_end_time: [1745475153, 435968000]
+inputs:
+  "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0/ContentView.swift": [1745471584, 659014913]
+  "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0/SignInView.swift": [1745475145, 975906567]
+  "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0/UIPractice0App.swift": [1745467830, 980095646]
+  ? "/Users/gimhyohwan/Swift/temp/UIPractice0-aflgejrrosjwcxfcegnqhfdbyenf/Build/Intermediates.noindex/UIPractice0.build/Release-iphonesimulator/UIPractice0.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1745475150, 600812027]

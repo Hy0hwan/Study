@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MyPlayground_Sources' in project 'MyPlayground_Sources'
+➜ Explicit dependency on target 'Login' in project 'Login'
+Target 'Login' in project 'Login' (no dependencies)

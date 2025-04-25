@@ -1,0 +1,51 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "08701326d0ccbdc3d5efda247f99f64af62efd573f796b885afed7498c416420"
+    },
+    {
+      "guid" : "08701326d0ccbdc3d5efda247f99f64ac476ca20bed1116cf2e210935ab15513"
+    }
+  ],
+  "containerPath" : "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/gimhyohwan/Swift/temp",
+      "indexDataStoreFolderPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Build/Products",
+      "pchPath" : "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

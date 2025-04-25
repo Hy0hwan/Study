@@ -1,0 +1,80 @@
+{
+  "source": "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0/SignInView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome back you've \nbeem missed!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello Again",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter username",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recovery Password",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Or continue with",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not a member?",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register now",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 156
+        }
+      }
+    ]
+  },
+  "version": 1
+}

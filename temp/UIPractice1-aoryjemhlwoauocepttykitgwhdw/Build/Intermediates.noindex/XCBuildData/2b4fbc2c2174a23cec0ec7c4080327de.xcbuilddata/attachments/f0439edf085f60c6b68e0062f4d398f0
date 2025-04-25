@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/BackgroundView.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/BackgroundView~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/Color+Predefined.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/Color+Predefined~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/ColoredRoundedRectButton.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/ColoredRoundedRectButton~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/GetStartedView.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/GetStartedView~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/RoundedBorderTextField.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/RoundedBorderTextField~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/SignUpView.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/SignUpView~partial.swiftmodule"
+  },
+  "/Users/gimhyohwan/Swift/UIPractice1/UIPractice1/UIPractice1App.swift" : {
+    "const-values" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.swiftconstvalues",
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.dia",
+    "index-unit-output-path" : "/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.o",
+    "llvm-bc" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.bc",
+    "object" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.o",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App.swiftdeps",
+    "swiftmodule" : "/Users/gimhyohwan/Swift/temp/UIPractice1-aoryjemhlwoauocepttykitgwhdw/Build/Intermediates.noindex/UIPractice1.build/Debug-iphonesimulator/UIPractice1.build/Objects-normal/arm64/UIPractice1App~partial.swiftmodule"
+  }
+}

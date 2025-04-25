@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "21625c79b76b4f37d08c1c058aee32daea3dc6b0c7ee0bf8567711795782c1b2"
+build_start_time: [1745482149, 751717000]
+build_end_time: [1745482151, 748698000]
+inputs:
+  "/Users/gimhyohwan/Swift/LoginForm/LoginForm/ContentView.swift": [1745482123, 972519991]
+  "/Users/gimhyohwan/Swift/LoginForm/LoginForm/LoginFormApp.swift": [1745482123, 970587736]
+  ? "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphonesimulator/LoginForm.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1745482132, 87875787]

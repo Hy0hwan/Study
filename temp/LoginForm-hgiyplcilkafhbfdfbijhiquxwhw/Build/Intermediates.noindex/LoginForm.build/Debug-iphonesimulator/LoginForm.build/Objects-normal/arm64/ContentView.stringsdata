@@ -1,0 +1,128 @@
+{
+  "source": "/Users/gimhyohwan/Swift/LoginForm/LoginForm/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "KARC",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello!",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcone back to the community",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in with Mobile Number",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "or",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your email",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password?",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign up",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discover the hidden gems of the world, one step at a time.",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign Up",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Join Us",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 146
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gimhyohwan/Swift/CreditCalc/CreditCalc/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "계산하기",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

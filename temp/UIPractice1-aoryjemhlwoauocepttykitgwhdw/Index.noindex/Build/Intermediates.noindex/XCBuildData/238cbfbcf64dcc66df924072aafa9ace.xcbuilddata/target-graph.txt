@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'UIPractice1UITests' in project 'UIPractice1' (no dependencies)
+Target 'UIPractice1UITests' in project 'UIPractice1'
+➜ Explicit dependency on target 'UIPractice1' in project 'UIPractice1'
+Target 'UIPractice1UITests' in project 'UIPractice1'
+➜ Explicit dependency on target 'UIPractice1' in project 'UIPractice1'
+Target 'UIPractice1Tests' in project 'UIPractice1' (no dependencies)
+Target 'UIPractice1Tests' in project 'UIPractice1'
+➜ Explicit dependency on target 'UIPractice1' in project 'UIPractice1'
+Target 'UIPractice1Tests' in project 'UIPractice1'
+➜ Explicit dependency on target 'UIPractice1' in project 'UIPractice1'
+Target 'UIPractice1' in project 'UIPractice1' (no dependencies)
+Target 'UIPractice1' in project 'UIPractice1' (no dependencies)

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/Objects-normal/arm64/CreditCalc-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/Objects-normal/arm64/CreditCalc-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/Objects-normal/arm64/CreditCalc-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/Objects-normal/arm64/CreditCalc-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/Objects-normal/arm64/CreditCalc-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/CreditCalc/CreditCalc/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/CreditCalc/CreditCalc/CreditCalcApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/CreditCalc-eltpwysizrjcimavpaxxjvxxyosf/Index.noindex/Build/Intermediates.noindex/CreditCalc.build/Debug-iphoneos/CreditCalc.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

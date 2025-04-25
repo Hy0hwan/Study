@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-maccatalyst/SunnyDayUITests.build/Objects-normal/arm64/SunnyDayUITests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-maccatalyst/SunnyDayUITests.build/Objects-normal/arm64/SunnyDayUITests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-maccatalyst/SunnyDayUITests.build/Objects-normal/arm64/SunnyDayUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-maccatalyst/SunnyDayUITests.build/Objects-normal/arm64/SunnyDayUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/SunnyDay-fheykxeayguozobrtizsswisjxfv/Index.noindex/Build/Intermediates.noindex/SunnyDay.build/Debug-maccatalyst/SunnyDayUITests.build/Objects-normal/arm64/SunnyDayUITests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/SunnyDay/SunnyDayUITests/SunnyDayUITests.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/SunnyDay/SunnyDayUITests/SunnyDayUITestsLaunchTests.swift" : {
+
+  }
+}

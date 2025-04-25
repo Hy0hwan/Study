@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'CreditCalc' in project 'CreditCalc' (no dependencies)
+Target 'CreditCalc' in project 'CreditCalc' (no dependencies)

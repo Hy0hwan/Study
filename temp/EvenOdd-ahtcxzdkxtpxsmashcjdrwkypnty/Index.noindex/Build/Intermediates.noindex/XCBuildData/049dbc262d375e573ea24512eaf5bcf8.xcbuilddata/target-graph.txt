@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'EvenOddUITests' in project 'EvenOdd' (no dependencies)
+Target 'EvenOddUITests' in project 'EvenOdd'
+➜ Explicit dependency on target 'EvenOdd' in project 'EvenOdd'
+Target 'EvenOddUITests' in project 'EvenOdd'
+➜ Explicit dependency on target 'EvenOdd' in project 'EvenOdd'
+Target 'EvenOddTests' in project 'EvenOdd' (no dependencies)
+Target 'EvenOddTests' in project 'EvenOdd'
+➜ Explicit dependency on target 'EvenOdd' in project 'EvenOdd'
+Target 'EvenOddTests' in project 'EvenOdd'
+➜ Explicit dependency on target 'EvenOdd' in project 'EvenOdd'
+Target 'EvenOdd' in project 'EvenOdd' (no dependencies)
+Target 'EvenOdd' in project 'EvenOdd' (no dependencies)

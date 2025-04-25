@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphoneos/LoginFormUITests.build/Objects-normal/arm64/LoginFormUITests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphoneos/LoginFormUITests.build/Objects-normal/arm64/LoginFormUITests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphoneos/LoginFormUITests.build/Objects-normal/arm64/LoginFormUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphoneos/LoginFormUITests.build/Objects-normal/arm64/LoginFormUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-iphoneos/LoginFormUITests.build/Objects-normal/arm64/LoginFormUITests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/LoginForm/LoginFormUITests/LoginFormUITests.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/LoginForm/LoginFormUITests/LoginFormUITestsLaunchTests.swift" : {
+
+  }
+}

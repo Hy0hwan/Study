@@ -1,0 +1,16 @@
+{
+  "source": "/Users/gimhyohwan/Swift/SunnyDay/SunnyDay/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "새로고침",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 76
+        }
+      }
+    ]
+  },
+  "version": 1
+}

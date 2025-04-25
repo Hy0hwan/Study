@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'SunnyDay' in project 'SunnyDay' (no dependencies)
+Target 'SunnyDay' in project 'SunnyDay' (no dependencies)

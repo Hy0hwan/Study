@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "ad9a0e16e9d7c3c9f464661d1cce6b6480559212c9c15e95109017b40f6236eb"
+build_start_time: [1744853889, 928732000]
+build_end_time: [1744853890, 379568000]
+inputs:
+  "/Users/gimhyohwan/Swift/Login/Login/ContentView.swift": [1744853844, 27566860]
+  "/Users/gimhyohwan/Swift/Login/Login/LoginApp.swift": [1744851739, 6222572]
+  ? "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1744852482, 811149137]

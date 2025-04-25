@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'EvenOdd' in project 'EvenOdd' (no dependencies)
+Target 'EvenOdd' in project 'EvenOdd' (no dependencies)

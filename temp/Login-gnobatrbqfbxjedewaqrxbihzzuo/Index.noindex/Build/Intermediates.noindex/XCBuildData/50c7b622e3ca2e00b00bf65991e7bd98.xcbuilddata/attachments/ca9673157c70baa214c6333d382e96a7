@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/Login/Login/ContentView.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/Login/Login/LoginApp.swift" : {
+
+  },
+  "/Users/gimhyohwan/Swift/temp/Login-gnobatrbqfbxjedewaqrxbihzzuo/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

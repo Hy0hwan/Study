@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "e71524fa9ef267e9447b57e9eda52ce94d0accdf9829471441c7561d74866f40"
+build_start_time: [1744857996, 79553000]
+build_end_time: [1744857996, 356454000]
+inputs:
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/ContentView.swift": [1744857985, 29600186]
+  "/Users/gimhyohwan/Swift/EvenOdd/EvenOdd/EvenOddApp.swift": [1744857985, 27679308]
+  ? "/Users/gimhyohwan/Swift/temp/EvenOdd-ahtcxzdkxtpxsmashcjdrwkypnty/Index.noindex/Build/Intermediates.noindex/EvenOdd.build/Debug-iphonesimulator/EvenOdd.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1744857989, 368033146]

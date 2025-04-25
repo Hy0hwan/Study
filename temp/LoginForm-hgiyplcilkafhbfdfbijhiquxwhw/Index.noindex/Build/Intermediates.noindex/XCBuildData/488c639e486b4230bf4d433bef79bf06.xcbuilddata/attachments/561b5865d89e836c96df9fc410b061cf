@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-maccatalyst/LoginFormTests.build/Objects-normal/arm64/LoginFormTests-master.d",
+    "diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-maccatalyst/LoginFormTests.build/Objects-normal/arm64/LoginFormTests-master.dia",
+    "emit-module-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-maccatalyst/LoginFormTests.build/Objects-normal/arm64/LoginFormTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-maccatalyst/LoginFormTests.build/Objects-normal/arm64/LoginFormTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gimhyohwan/Swift/temp/LoginForm-hgiyplcilkafhbfdfbijhiquxwhw/Index.noindex/Build/Intermediates.noindex/LoginForm.build/Debug-maccatalyst/LoginFormTests.build/Objects-normal/arm64/LoginFormTests-master.swiftdeps"
+  },
+  "/Users/gimhyohwan/Swift/LoginForm/LoginFormTests/LoginFormTests.swift" : {
+
+  }
+}

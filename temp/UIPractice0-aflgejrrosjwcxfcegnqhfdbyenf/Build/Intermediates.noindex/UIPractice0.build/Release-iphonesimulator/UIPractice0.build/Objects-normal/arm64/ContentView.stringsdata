@@ -1,0 +1,40 @@
+{
+  "source": "/Users/gimhyohwan/Swift/UIPractice0/UIPractice0/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Discover your \nDream job Here",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Explore all the most exiting jobs roles based on yout interest And study major",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}
